@@ -1,4 +1,4 @@
-# Godot Windows Registry Example
+# Godot 4 Windows Registry Example
 
 This repository provides a simple Godot C# example demonstrating how to interact with the Windows Registry. The project shows how to write a value to a registry key and then read it back.
 
